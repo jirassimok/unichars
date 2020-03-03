@@ -1,0 +1,16 @@
+# Emacs
+*~
+\#*\#
+.dir-locals.el
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Distribution
+build/
+dist/
+sdist/
+*.egg-info
